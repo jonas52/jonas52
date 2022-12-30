@@ -11,9 +11,9 @@ bc = Border Color
 ![states](https://github-stats-alpha.vercel.app/api?username=jonas52&cc=000&tc=fff&ic=fff&bc=000)
 # Project in progress
 ## ![Convertisso](https://github.com/jonas52/convertisso)
-#### Convertisso is a TUI programme for converting file (subtitle, video, audio, photo) and download video. More details in the README of the repository. 
+Convertisso is a TUI programme for converting file (subtitle, video, audio, photo) and download video. More details in the README of the repository. 
 ## ![Consyncronize](https://github.com/jonas52/consyncronize)
-#### Convertisso is a script allows to sincronize files between two termninal. More details in the README of the repository.
+Convertisso is a script allows to sincronize files between two termninal. More details in the README of the repository.
 
 # ⌨️・Known_languages
 - Bash
