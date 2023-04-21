@@ -2,19 +2,17 @@
   My name is _Jonas Petitpierre_ aka _**jonas52**_, I'm 16 years old, I live in Switzerland.
   I study in Lausanne, in a school of computer science for 4 years. The field of cybersecurity interests me particularly, thereafter I wish to make an ES (higher school) then a HES (High specialized schools).
   
-# Statistics
-<!--  
-cc = Card Color
-tc = Text Color
-ic = Icon Color
-bc = Border Color
--->
-![states](https://github-stats-alpha.vercel.app/api?username=jonas52&cc=000&tc=fff&ic=fff&bc=000)
+# General stats
+![Jonas52 GitHub stats](https://github-readme-stats.vercel.app/api?username=jonas52&show_icons=true&include_all_commits=true&theme=dark)
+## Code time stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas52&theme=dark)](https://github.com/jonas52)
+
 # Project in progress
 ## ![Convertisso](https://github.com/jonas52/convertisso)
-Convertisso is a TUI programme for converting file (subtitle, video, audio, photo) and download video. More details in the README of the repository. 
+Convertisso is a GUI programme for converting file (subtitle, video, audio, photo) and download video. More details in the README of the repository. 
 ## ![Consyncronize](https://github.com/jonas52/consyncronize)
 Convertisso is a script allows to sincronize files between two termninal. More details in the README of the repository.
+
 
 # 📧・Contact_me
 - If you want to talk to me or report issues about the projets, you can contact me by :
