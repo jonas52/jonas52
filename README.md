@@ -73,7 +73,3 @@ I build practical tools, automation scripts, and system-focused projects that ma
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonas52&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
