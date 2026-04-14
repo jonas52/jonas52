@@ -66,15 +66,6 @@ I build practical tools, automation scripts, and system-focused projects that ma
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonas52&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas52&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
