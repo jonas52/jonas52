@@ -1,17 +1,88 @@
-# 📄 About me
-  Hello i'm _**jonas52**_, I live in Switzerland.  
-# General stats
-![Jonas52 GitHub stats](https://github-readme-stats.vercel.app/api?username=jonas52&show_icons=true&include_all_commits=true&theme=dark)
-## Code time stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas52&theme=dark)](https://github.com/jonas52)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+I'm+Jonas;Linux+%26+Automation+Developer;Building+Practical+Tools" alt="Typing SVG" />
+</h1>
 
-# Project in progress
-## ![Convertisso](https://github.com/jonas52/convertisso)
-Convertisso is a GUI programme for converting file (subtitle, video, audio, photo) and download video. More details in the README of the repository. 
-## ![Consyncronize](https://github.com/jonas52/consyncronize)
-Convertisso is a script allows to sincronize files between two termninal. More details in the README of the repository.
+<p align="center">
+  <b>jonas52</b> · Switzerland 🇨🇭 · Linux · Automation · System Tools
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Automation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Linux-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-FACC15?style=for-the-badge" />
+</p>
 
+---
 
+## ✨ About Me
+
+I’m **Jonas** (aka **jonas52**), a developer based in Switzerland.  
+I build practical tools, automation scripts, and system-focused projects that make everyday tasks easier.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 <a href="https://github.com/jonas52/linux-tips">Linux Tips</a></h3>
+      <p>
+        A curated collection of useful Linux commands, tricks, and workflows designed to improve productivity and streamline daily use.
+      </p>
+      <p>
+        <b>Stack:</b> Linux · CLI · Productivity
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/jonas52/systek">Systek</a></h3>
+      <p>
+        A system-oriented project focused on tools and utilities for managing and interacting with your machine more efficiently.
+      </p>
+      <p>
+        <b>Stack:</b> System Tools · Automation · Utilities
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧪 More Projects
+
+<div>
+  <h3>🔹 <a href="https://github.com/jonas52/convertisso">Convertisso</a></h3>
+  <p>
+    A GUI application for converting files such as subtitles, video, audio, and images, with video downloading support.
+  </p>
+</div>
+
+<div>
+  <h3>🔹 <a href="https://github.com/jonas52/consyncronize">Consyncronize</a></h3>
+  <p>
+    A script to synchronize files between two terminals.
+  </p>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonas52&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas52&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,mysql,mongodb,sqlite,qt,aws" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jonas52&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</p>
